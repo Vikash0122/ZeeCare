@@ -29,6 +29,14 @@ The Hospital Management System leverages a comprehensive suite of technologies:
   - **Frontend**: Hosted on **Netlify**, enabling seamless deployment and hosting of the frontend application.
   - **Backend**: Hosted on **Render**, ensuring reliable and scalable deployment of the backend services.
 
+## 🚀 Admin Page
+[LIVE](https://admin-dashboard-zeecare-hms.netlify.app/login) 
+
+<img width="485" alt="admin" src="https://github.com/user-attachments/assets/5a938fd8-883f-4c22-97a2-e5b53d68b6f4" /> 
+
+<img width="483" alt="admin-2" src="https://github.com/user-attachments/assets/dd915eab-6ef2-4e62-8fa8-acc6227878af" />
+
+
 ## 🚀 Features
 
 - **Dynamic User Authentication**: Implements secure login and user management, enabling different access rights for doctors, staff, and administrators.
